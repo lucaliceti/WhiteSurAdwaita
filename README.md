@@ -4,4 +4,5 @@ Gnome icon theme that incorporates the Adwaita icon theme and the White-Sur them
 Credits:
 
 WhiteSur icons repo: https://github.com/vinceliuice/WhiteSur-gtk-theme
+
 Adwaita icons repo: https://github.com/GNOME/adwaita-icon-theme
